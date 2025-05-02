@@ -32,7 +32,7 @@ assets/images/screenshot.jpg
 
 ```bash
 git clone https://github.com/GihanIT/Dynamic-Banner-TeamSpeak-3.git
-cd Dynamic Banner TeamSpeak 3
+cd Dynamic-Banner-TeamSpeak-3
 ```
 
 2. **Set up your server environment**
