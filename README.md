@@ -12,7 +12,7 @@ This banner can be used on websites, forums, or community hubs to visually repre
 
 ## 📷 Preview
 
-assets/images/screenshot.jpg
+![Banner Preview](assets/images/screenshot.jpg)
 
 ---
 
